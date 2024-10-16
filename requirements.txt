@@ -1,6 +1,2 @@
-cryptography.hazmat.primitives.ciphers
-cryptography.hazmat.primitives
-cryptography.hazmat.primitives.asymmetric
-cryptography.hazmat.primitives
-cryptography.hazmat.backends
+cryptography
 tkinter
