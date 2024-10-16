@@ -1,9 +1,8 @@
-import tkinter as tk
-from gui import *
+import streamlit as st
+
+def main():
+    st.title("SecureText")
+    # Add your secure text functionality here with Streamlit inputs/outputs
 
 if __name__ == "__main__":
-    app = tk.Tk()
-    app.title("SecureText")
-    # Initialize and run the Tkinter GUI
-    gui = SecureTextGUI(app)
-    app.mainloop()
+    main()
